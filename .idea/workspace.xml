@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922bfff1-a92d-4e63-aa3f-6c74ec1cbbc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kyle/handler/fn_globalKeyHandler.sqf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kyle/handler/vars.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kyle/holster/fn_keyHandler.sqf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kyle/holster/index.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/init.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/init.sqf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kyle/functions.h" beforeDir="false" afterPath="$PROJECT_DIR$/kyle/functions.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission.sqm" beforeDir="false" afterPath="$PROJECT_DIR$/mission.sqm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initPlayerLocal.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/initPlayerLocal.sqf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyle/handler/fn_globalKeyHandler.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/kyle/handler/fn_globalKeyHandler.sqf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyle/holster/fn_keyHandler.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/kyle/holster/fn_keyHandler.sqf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +51,24 @@
       <option name="presentableId" value="Default" />
       <updated>1589496653743</updated>
       <workItem from="1589496655463" duration="13352000" />
-      <workItem from="1589591274781" duration="2804000" />
+      <workItem from="1589591274781" duration="4115000" />
     </task>
+    <task id="LOCAL-00001" summary="started work on key handlers">
+      <created>1589594104981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589594104981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started work on key handlers" />
+    <option name="LAST_COMMIT_MESSAGE" value="started work on key handlers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="208" key="CommitChangelistDialog2" timestamp="1589594104485">
