@@ -11,3 +11,5 @@ Luke_Core_RunCode = {
 
 life_cash = 500;
 life_atmcash = 1000;
+
+call KyleKeyHandler_fnc_globalKeyHandler;
