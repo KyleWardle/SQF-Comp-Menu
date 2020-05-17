@@ -8,5 +8,5 @@ waitUntil { !isNull findDisplay _key_handler_display };
 
     _this call KyleHolster_fnc_keyHandler;
 
-    true
-}]; // Init.sqf
+    false; // We dont want to override all other events :)
+}];

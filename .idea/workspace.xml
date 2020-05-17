@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922bfff1-a92d-4e63-aa3f-6c74ec1cbbc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kyle/holster/fn_holsterAction.sqf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kyle/holster/fn_holsterCurrentWeapon.sqf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kyle/holster/fn_unholsterCurrentWeapon.sqf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kyle/holster/vars.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/init.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/init.sqf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/initPlayerLocal.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/initPlayerLocal.sqf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyle/functions.h" beforeDir="false" afterPath="$PROJECT_DIR$/kyle/functions.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kyle/handler/fn_globalKeyHandler.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/kyle/handler/fn_globalKeyHandler.sqf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kyle/holster/fn_keyHandler.sqf" beforeDir="false" afterPath="$PROJECT_DIR$/kyle/holster/fn_keyHandler.sqf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission.sqm" beforeDir="false" afterPath="$PROJECT_DIR$/mission.sqm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589496653743</updated>
       <workItem from="1589496655463" duration="13352000" />
-      <workItem from="1589591274781" duration="4115000" />
+      <workItem from="1589591274781" duration="13164000" />
     </task>
     <task id="LOCAL-00001" summary="started work on key handlers">
       <created>1589594104981</created>
@@ -92,10 +97,10 @@
     </state>
     <state x="-1274" y="695" width="691" height="568" key="find.popup/0.0.2560.1400/-1920.459.1920.1040@-1920.459.1920.1040" timestamp="1589504651777" />
     <state x="861" y="318" width="922" height="765" key="find.popup/0.0.2560.1400/-1920.459.1920.1040@0.0.2560.1400" timestamp="1589509241906" />
-    <state x="936" y="330" key="run.anything.popup" timestamp="1589509618324">
+    <state x="936" y="330" key="run.anything.popup" timestamp="1589596191473">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/-1920.459.1920.1040@0.0.2560.1400" timestamp="1589509618324" />
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/-1920.459.1920.1040@0.0.2560.1400" timestamp="1589596191473" />
     <state x="831" y="303" width="896" height="913" key="search.everywhere.popup" timestamp="1589593326370">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

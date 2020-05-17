@@ -1,14 +1,21 @@
 #include "..\handler\vars.h"
+#include "vars.h"
 
 params ["_displayorcontrol", "_key", "_shift", "_ctrl", "_alt"];
 
-diag_log "got to holster handler";
-diag_log str _key;
-
 switch (_key) do {
-    case KEY_HANDLER_1: {
-        systemChat "Handle KeyPress";
-    };
-};
+    case KEY_HANDLER_H: {
+        if (_shift) then {
+            call KyleHolster_fnc_holsterCurrentWeapon;
 
-true;
+        };
+    };
+
+    case KEY_HANDLER_1: {
+        if (_ctrl) then {
+            [HOLSTER_PRIMARY] call KyleHolster_fnc_unholsterWeapon;
+        };
+    };
+
+
+};

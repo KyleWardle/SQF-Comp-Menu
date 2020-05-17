@@ -22,5 +22,10 @@ class KyleHolster
     class Main {
         file = "Kyle\holster";
         class keyHandler {};
+        class holsterCurrentWeapon {};
+        class unholsterWeapon {};
+        class getHolsterType {};
+        class formWeaponArray {};
+        class getMagazineCount {};
     };
 };
