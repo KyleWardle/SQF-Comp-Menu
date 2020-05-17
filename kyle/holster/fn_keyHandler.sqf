@@ -17,5 +17,18 @@ switch (_key) do {
         };
     };
 
+    case KEY_HANDLER_2: {
+        if (_ctrl) then {
+            [HOLSTER_SECONDARY] call KyleHolster_fnc_unholsterWeapon;
+        };
+    };
+
+
+    case KEY_HANDLER_3: {
+        if (_ctrl) then {
+            [HOLSTER_TERTIARY] call KyleHolster_fnc_unholsterWeapon;
+        };
+    };
+
 
 };

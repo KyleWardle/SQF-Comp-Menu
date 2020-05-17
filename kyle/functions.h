@@ -26,6 +26,7 @@ class KyleHolster
         class unholsterWeapon {};
         class getHolsterType {};
         class formWeaponArray {};
+        class addWeaponFromArray {};
         class getMagazineCount {};
     };
 };
